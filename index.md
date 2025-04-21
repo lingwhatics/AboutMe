@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, you've landed on Daley's about me page that I have not really put anything on yet. You can contact me [@lingwhatics](https://www.twitter.com/lingwhatics) or via email hi[@]daleym.ca.
+Hi, you've landed on Daley's about me page that I have not really put anything on yet. You can contact me [@dalmond](https://mstdn.ca/@dalmond) or via email hi[@]daleym.ca.
 
 One day, I really will fill up this page.
 
