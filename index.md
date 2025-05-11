@@ -18,7 +18,7 @@ One day, I really will fill up this page.
 
 I pronounce my name /dεjˈli mɪkulson/, but my daughter decided it is /majkəlson/. This was added after seeing the names pages by [S. Qiouyi Lu](https://s.qiouyi.lu/press-kit/) and [Gretchen McCulloch](https://gretchenmcculloch.com/name/).
 
-Audio of my name pronunciation. <audio controls> <src="/audio/daley.mp3" type="audio/mp3"></audio>
+Audio of my name pronunciation. <audio controls> <src={{ "/audio/daley.mp3" | prepend: site.url }} type="audio/mpeg"></audio>
 
 
 ## Presentations

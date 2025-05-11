@@ -21,7 +21,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         
-        <p>Find me on<br>
+        <p class="find_me">Find me on<br>
         
         <a rel="me" href="https://mstdn.ca/@dalmond">Mastodon</a><br>
         
@@ -50,9 +50,7 @@
         </ul>
         {% endif %}
       
-        <p class="rss-subscribe">Who knows how often I'll update this page so you can subscribe<br>
-        <a href="{{ "/feed.xml" | prepend: site.url }}"> via RSS</a><br>
-        <a href="{{ "/feed.json" | prepend: site.url }}"> via JSON</a></p>
+        <p class="rss-subscribe">Who knows how often I'll update this page so you can subscribe <a href="{{ "/feed.xml" | prepend: site.url }}"> via RSS</a> or <a href="{{ "/feed.json" | prepend: site.url }}"> via JSON</a>.</p>
     
       </header>
       <section>
@@ -61,10 +59,10 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+        <!--->{% if site.github.is_project_page %}<!--->
         <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-        {% endif %}
+        <!-->{% endif %}</!--->
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
