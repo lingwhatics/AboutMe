@@ -3,7 +3,8 @@ title: About Daley
 author: Daley Mikalson
 email: hi@daleym.ca
 description: Want to find out about me and what I do? You've come to the right place.
-url: https://daleym.ca
+url: https://www.daleym.ca
+baseurl: # the subpath of your site, e.g. /blog
 
 github_username:  lingwhatics
 
