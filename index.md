@@ -9,6 +9,9 @@ One day, I really will fill up this page.
 * * *
 
 - What do I do?
+	- Project Management
+	- Mapping
+	- Cycling
 - What do I want to do?
 
 
